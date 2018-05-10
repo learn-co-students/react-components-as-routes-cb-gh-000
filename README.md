@@ -7,7 +7,7 @@
 3. Describe how routes are matched in React Router
 
 ### A complicated world needs an address
-
+ 
 So far, we have been building our applications without any navigation, so everything in the app has lived at the same url. Currently, we can make it look like we are changing the page, by showing or hiding some components, but none of these changes are dependent on a change in the url.
 
 Now this may seem like a small quibble, but web addresses are the backbone of the Internet. The web is just a series of links to other pages, after all. Let's imagine that we have a React application hosted at www.loveforsoils.com dedicated to sharing knowledge about [soil types][soils]. As a facet of our React application, we want to provide users with the option to see a list of our favorite soils. Currently, instead of sharing a link to a list of our favorite soils, we can only provide a link to our "Love for soils" homepage. Following which, users are required to interact with our application to see a favorite soil list.
