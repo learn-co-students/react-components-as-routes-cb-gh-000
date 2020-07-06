@@ -11,7 +11,7 @@
 So far, we have been building our applications without any navigation, so
 everything in the app has lived at the same URL. Currently, we can make it look
 like we are changing the page, by showing or hiding some components, but none of
-these changes are dependent on a change in the URL.
+these changes are dependent on a change in the URL. j
 
 Now this may seem like a small quibble, but web addresses are the backbone of
 the Internet. The web is just a series of links to other pages, after all. Let's
